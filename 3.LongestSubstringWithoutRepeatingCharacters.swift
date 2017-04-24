@@ -7,7 +7,7 @@
  */
 
 
-// 思路分析：利用集合Set的元素唯一性来存放字符串中的字符，需要将字符串中的字符放入字典中遍历
+// 思路分析：利用集合Set的元素唯一性来存放字符串中的字符，需要将字符串中的字符放入数组中遍历
 
 class Solution {
     class func lengthOfLongestSubstring(_ s: String) -> Int {
